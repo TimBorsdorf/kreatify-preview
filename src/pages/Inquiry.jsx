@@ -178,12 +178,12 @@ export default function Inquiry() {
                     value={form.name}
                     onChange={onChange}
                     className="mt-1 w-full rounded-xl border border-line bg-paper px-3 py-2 text-sm text-ink outline-none focus:border-accent focus:ring-1 focus:ring-accent"
-                    placeholder="Lorem Ipsum"
+                    placeholder="Name oder Firma"
                     required
                   />
                 </Field>
 
-                <Field label="Kontakt (E-Mail oder Telefon)">
+                <Field label="Kontakt">
                   <input
                     name="contact"
                     value={form.contact}
