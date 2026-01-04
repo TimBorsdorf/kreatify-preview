@@ -40,7 +40,7 @@ export const packages = [
     short: "Aenean lacinia bibendum.",
     features: ["Setup", "Creatives", "Optimierung"],
     image: "https://via.placeholder.com/1200x800.png?text=Performance+Ads",
-    popular: false,
+    popular: true,
   },
 
   // KAMPFSPORT
